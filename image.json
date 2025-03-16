@@ -1,0 +1,103 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "image": "https://i.ibb.co.com/LtM8hNt/man2.webp",
+      "language": "English",
+      "price": 15.99,
+      "description": "This is a high-quality product that meets all your needs and exceeds expectations. Crafted with care and precision, it offers durability, functionality, and style. Perfect for daily use or special occasions, this product has been designed to provide maximum satisfaction and convenience. Don't miss the opportunity to own such a versatile and reliable item.",
+      "review": 0,
+      "country": "USA"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "image": "https://i.ibb.co.com/rphQ3kc/manone.jpg",
+      "language": "Spanish",
+      "price": 12.49,
+      "description": "Experience the best in class with this amazing product. Known for its exceptional quality and innovative design, it brings ease and joy to your daily tasks. From its sleek look to its outstanding performance, it ticks all the boxes for what you expect in a premium product. A must-have for anyone looking for value and style.",
+      "review": 0,
+      "country": "Spain"
+    },
+    {
+      "name": "Arjun Kumar",
+      "email": "arjun.kumar@example.com",
+      "image": "https://i.ibb.co.com/R6HJBy8/Management-Counsellin.jpg",
+      "language": "Hindi",
+      "price": 18.75,
+      "description": "This product is designed to cater to your specific needs, offering unparalleled convenience and efficiency. It is crafted with the highest standards, ensuring that it not only looks great but also delivers on its promises. Whether for personal or professional use, it is a dependable choice that you will cherish for a long time.",
+      "review": 0,
+      "country": "India"
+    },
+    {
+      "name": "Li Wei",
+      "email": "li.wei@example.com",
+      "image": "https://i.ibb.co.com/gSmcBnn/Information-Technology.jpg",
+      "language": "Chinese",
+      "price": 20.00,
+      "description": "A remarkable product that stands out in its category, offering features that are both practical and innovative. Made with top-notch materials, it ensures durability and ease of use. Ideal for a wide range of applications, this product guarantees satisfaction and reliability, making it a favorite among users worldwide.",
+      "review": 0,
+      "country": "China"
+    },
+    {
+      "name": "Ahmed Ali",
+      "email": "ahmed.ali@example.com",
+      "image": "https://i.ibb.co.com/cCfH1pw/Human-Resource-Management.jpg",
+      "language": "Arabic",
+      "price": 22.99,
+      "description": "With a focus on quality and user satisfaction, this product is a game-changer. Its unique features and impeccable design make it an excellent choice for anyone seeking value and performance. Easy to use and maintain, it fits seamlessly into your routine, making life more comfortable and enjoyable.",
+      "review": 0,
+      "country": "Egypt"
+    },
+    {
+      "name": "Emma Brown",
+      "email": "emma.brown@example.com",
+      "image": "https://i.ibb.co.com/gRD673w/economy.webp",
+      "language": "French",
+      "price": 17.50,
+      "description": "Discover the perfect combination of style and functionality with this exceptional product. Designed with attention to detail, it offers superior performance and a great user experience. Whether for everyday tasks or special occasions, this product delivers outstanding results, ensuring that you always get the best value for your money.",
+      "review": 0,
+      "country": "France"
+    },
+    {
+      "name": "Olga Ivanova",
+      "email": "olga.ivanova@example.com",
+      "image": "https://i.ibb.co.com/gRD673w/economy.webp",
+      "language": "Russian",
+      "price": 19.80,
+      "description": "This is a premium product that blends quality, efficiency, and elegance. Its innovative features and user-friendly design make it a must-have for anyone who values convenience and reliability. Perfect for various applications, it has been crafted to exceed your expectations and provide unmatched satisfaction.",
+      "review": 0,
+      "country": "Russia"
+    },
+    {
+      "name": "Carlos Gomez",
+      "email": "carlos.gomez@example.com",
+      "image": "https://i.ibb.co.com/G7g8VWy/business.jpg",
+      "language": "Portuguese",
+      "price": 16.49,
+      "description": "A product that combines modern design with exceptional functionality, making it a favorite choice for discerning users. Built to last and perform under various conditions, it ensures reliability and efficiency. Ideal for enhancing your lifestyle, it is a great investment for anyone looking to improve their everyday experience.",
+      "review": 0,
+      "country": "Brazil"
+    },
+    {
+      "name": "Sakura Tanaka",
+      "email": "sakura.tanaka@example.com",
+      "image": "https://i.ibb.co.com/jR26RQt/gettyimages-1636796092-2048x2048.jpg",
+      "language": "Japanese",
+      "price": 21.00,
+      "description": "An extraordinary product that redefines excellence with its top-notch features and impeccable design. Perfectly suited for those who appreciate quality and innovation, it offers a seamless user experience. From its sleek appearance to its powerful performance, it is a product that never fails to impress.",
+      "review": 0,
+      "country": "Japan"
+    },
+    {
+      "name": "Marta Kowalska",
+      "email": "marta.kowalska@example.com",
+      "image": "https://i.ibb.co.com/CvHfBTD/bbm.webp",
+      "language": "Polish",
+      "price": 14.99,
+      "description": "This product is a true masterpiece, combining functionality, durability, and style. Designed for users who seek both elegance and performance, it stands out as a reliable and versatile choice. Whether for work, leisure, or special occasions, this product delivers exceptional value and satisfaction.",
+      "review": 0,
+      "country": "Poland"
+    }
+  ]
+  
