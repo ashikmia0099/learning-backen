@@ -56,7 +56,7 @@ async function run() {
 
 
 
-    // post learn data
+    // post learn data post
 
 
     app.post('/langauges', async (req, res) => {
